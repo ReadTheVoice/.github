@@ -33,4 +33,4 @@ The benefits of ReadTheVoice are numerous. For speakers, ReadTheVoice provides a
 
 ## Architecture
 
-![Architecture](.img/architecture.png)
+![Architecture](profile/.img/architecture.png)
