@@ -34,3 +34,11 @@ The benefits of ReadTheVoice are numerous. For speakers, ReadTheVoice provides a
 ## Architecture
 
 ![Architecture](profile/.img/architecture.png)
+
+## Gantt
+
+![Gantt](profile/.img/gantt.png)
+
+Task Gantt as of September 14, 2023.
+This had to be done quickly in a single morning, with ideas that were not yet very clear.
+Some tasks have been re-cut (orchestrator API exploded into different elements).
